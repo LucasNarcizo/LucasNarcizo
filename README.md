@@ -1,7 +1,7 @@
 ### Olá sou o Lucas Floriano Narcizo 🤗
 <br>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnarcizo&show_icons=true&theme=radical)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnarcizo&show_icons=true&theme=radical)<br>
 [![Lucas Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnarcizo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
