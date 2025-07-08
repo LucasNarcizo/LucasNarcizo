@@ -1,19 +1,50 @@
-### Olá sou o Lucas Floriano Narcizo 🤗
-<br>
+# 👨🏻‍💻​ Lucas Floriano
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnarcizo&show_icons=true&theme=radical)<br>
-[![Lucas Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnarcizo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+*`Desenvolvedor Back-End`*
+
+Me chamo Lucas Floriano Narcizo, tenho 23 anos, natural de Santa Catarina. Atualmente estou cursando Graduação em Engenharia de software na Estácio, desde de criança tenho uma paixão na área de tecnologia mas nos ultimos anos a área de programação me chama bastante atenção, e atualmente em transição de carreira e estou tentando ir atrás do meu sonho para conseguir me tornar um desenvolvedor e conseguir uma vaga na área.
 
 
-### Tecnologias que eu tenho experiência
+
+
+### Linguagens e Tecnologias
 
 <div>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img 
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img
+align="left"
+alt="CSS"
+title="CSSt"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+align="left"
+alt="Javat"
+title="Java"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+<img 
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+/>
 </div>
 
-### Redes Sociais
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nerivlr?t=U7dmGl53V2AUSiL51y5iVg&s=09)
+<br><br>![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnarcizo&show_icons=true&theme=radical)
+[![Lucas Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnarcizo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
