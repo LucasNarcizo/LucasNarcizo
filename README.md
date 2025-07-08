@@ -11,7 +11,7 @@ alt="HTML"
 title="HTML"
 width="30px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"(www.linkedin.com/in/lucas-floriano-narcizo-b63048223) 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg(www.linkedin.com/in/lucas-floriano-narcizo-b63048223)"
 
 />
 
