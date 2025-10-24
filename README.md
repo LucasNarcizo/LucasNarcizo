@@ -5,14 +5,7 @@
 Me chamo Lucas Floriano Narcizo, tenho 23 anos, natural de Santa Catarina. Atualmente estou cursando Graduação em Engenharia de software na Estácio, desde de criança tenho uma paixão na área de tecnologia mas nos ultimos anos a área de programação me fez querer aprender sobre e quis levar como profissão, e atualmente estou em transição de carreira e pretendo ir atrás de um estágio para adquirir conhecimento na área para futuramente conseguir me tornar um desenvolvedor back-end e conseguir uma vaga na área.
 
 
-<img
-align="left"
-alt="HTML"
-title="HTML"
-width="30px"
-style="padding-right: 10px;"
-src="https://www.linkedin.com/in/lucas-floriano-narcizo-b63048223/"
-/>
+
 
 
 
