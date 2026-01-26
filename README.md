@@ -28,6 +28,7 @@ Estudante de Engenharia de Software na Estácio e apaixonado por tecnologia desd
 
 ### Linguagens e Tecnologias
 
+##Back-End
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="PostgreSQL" title="SQL/PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
