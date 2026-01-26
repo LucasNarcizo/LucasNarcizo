@@ -13,7 +13,7 @@ Estudante de Engenharia de Software na Estácio e apaixonado por tecnologia desd
 
 🎯 Objetivo: Estágio em Desenvolvimento de Software para aplicar conhecimentos em projetos reais.
 
-💻 Atualmente desenvolvendo um Dashboard de Finanças Pessoais com Python, Streamlit e Supabase.
+💻 Atualmente desenvolvendo um Dashboard de Finanças Pessoais com Python, CSS, Streamlit e Supabase.
 
 
 
