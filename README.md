@@ -1,8 +1,18 @@
-# 👨🏻‍💻​ Lucas Floriano
+# Olá, eu sou o Lucas Floriano! 👋
 
-*`Desenvolvedor Back-End`*
+*`Desenvolvedor FullStack`*
 
-Me chamo Lucas Floriano Narcizo, tenho 23 anos, natural de Santa Catarina. Atualmente estou cursando Graduação em Engenharia de software na Estácio, desde de criança tenho uma paixão na área de tecnologia mas nos ultimos anos a área de programação me fez querer aprender sobre e quis levar como profissão, e atualmente estou em transição de carreira e pretendo ir atrás de um estágio para adquirir conhecimento na área para futuramente conseguir me tornar um desenvolvedor back-end e conseguir uma vaga na área.
+Estudante de Engenharia de Software na Estácio e apaixonado por tecnologia desde a infância. Atualmente, estou em transição de carreira, focando meus estudos no ecossistema Full Stack com uma forte inclinação para o Back-end.
+
+
+🚀 Sobre mim
+🎓 Cursando Engenharia de Software (Estácio).
+
+📍 Localizado em Santa Catarina, Brasil.
+
+🎯 Objetivo: Estágio em Desenvolvimento de Software para aplicar conhecimentos em projetos reais.
+
+💻 Atualmente desenvolvendo um Dashboard de Finanças Pessoais com Python, Streamlit e Supabase.
 
 
 
