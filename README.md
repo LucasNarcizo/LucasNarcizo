@@ -5,7 +5,7 @@
 Estudante de Engenharia de Software na Estácio e apaixonado por tecnologia desde a infância. Atualmente, estou em transição de carreira, focando meus estudos no ecossistema Full Stack com uma forte inclinação para o Back-end.
 
 
-🚀 Sobre mim
+🚀 Sobre mim <br>
 🎓 Cursando Engenharia de Software (Estácio).
 
 📍 Localizado em Santa Catarina, Brasil.
