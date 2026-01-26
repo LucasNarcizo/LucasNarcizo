@@ -6,6 +6,7 @@ Estudante de Engenharia de Software na Estácio e apaixonado por tecnologia desd
 
 
 🚀 Sobre mim <br>
+
 🎓 Cursando Engenharia de Software (Estácio).
 
 📍 Localizado em Santa Catarina, Brasil.
