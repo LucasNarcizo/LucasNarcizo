@@ -49,6 +49,7 @@ Estudante de Engenharia de Software na Estácio e apaixonado por tecnologia desd
 <br clear="left"/>
 
 
-<br><br>![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnarcizo&show_icons=true&theme=radical)
+## Estatisticas
+<br>![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnarcizo&show_icons=true&theme=radical)
 [![Lucas Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnarcizo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
