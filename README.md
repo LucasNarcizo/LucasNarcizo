@@ -46,10 +46,7 @@ Estudante de Engenharia de Software na Estácio e apaixonado por tecnologia desd
 <img align="left" alt="VSCode" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Linux" title="Linux/WSL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-<br clear="left"/>
 
 
-## Estatisticas
-<br>![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnarcizo&show_icons=true&theme=radical)
-[![Lucas Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnarcizo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
