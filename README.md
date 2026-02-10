@@ -1,8 +1,8 @@
 # Olá, eu sou o Lucas Floriano! 👋
 
-*`Desenvolvedor FullStack`*
+*`Desenvolvedor Back-End`*
 
-Estudante de Engenharia de Software na Estácio e apaixonado por tecnologia desde a infância. Atualmente, estou em transição de carreira, focando meus estudos no ecossistema Full Stack com uma forte inclinação para o Back-end.
+Estudante de Engenharia de Software na Estácio e apaixonado por tecnologia desde a infância. Atualmente, estou em transição de carreira, focando meus estudos no ecossistema Back-End.
 
 
 🚀 Sobre mim <br>
